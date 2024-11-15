@@ -1,8 +1,9 @@
+import Photo from "@/components/photo";
 
 export default function Home() {
   return (
     <div>
-      123
+      <Photo />
     </div>
   );
 }
